@@ -15,9 +15,8 @@
    ========================================================================== */
 
 @function em($target, $context: $doc-font-size) {
-  @return ($target / $context) * 1em;
+  @return calc(($target / $context) * 1em);
 }
-
 
 /*
    Bourbon clearfix
@@ -57,17 +56,16 @@
    https://github.com/easy-designs/yiq-color-contrast
    ========================================================================== */
 
-@function yiq-is-light(
-  $color,
-  $threshold: $yiq-contrasted-threshold
-) {
+@function yiq-is-light($color, $threshold: $yiq-contrasted-threshold) {
   $red: red($color);
   $green: green($color);
   $blue: blue($color);
 
-  $yiq: (($red*299)+($green*587)+($blue*114))/1000;
+  $yiq: calc((($red * 299) + ($green * 587) + ($blue * 114)) / 1000);
 
-  @if $yiq-debug { @debug $yiq, $threshold; }
+  @if $yiq-debug {
+    @debug $yiq, $threshold;
+  }
 
   @return if($yiq >= $threshold, true, false);
 }
