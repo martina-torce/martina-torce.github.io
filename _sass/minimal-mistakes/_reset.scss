@@ -57,9 +57,12 @@ footer,
 header,
 hgroup,
 main,
-nav,
 section {
   display: block;
+}
+
+nav {
+  display: inline-flex; //
 }
 
 /* Display block in IE6-9 and FF3 */
