@@ -239,9 +239,12 @@ body {
 }
 
 .page__hero-image {
+  max-height: 375px; //
+  object-fit: cover; //
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+
 }
 
 .page__hero-caption {
