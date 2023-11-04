@@ -1,9 +1,6 @@
 ---
-layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
-
 # toc: true
 # toc_sticky: true
 ---
