@@ -5,8 +5,8 @@ categories:
   - Extension Development
 ---
 
+Visual Studio colour theme with 1,500+ downloads.
+
 [Preview](https://vscodethemes.com/e/martinatorce.beautiful-theme/dark-pink-theme?language=go)
-
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=MartinaTorce.beautiful-theme)
-
 [Repository](https://github.com/martina-torce/vscode-theme-dp)

@@ -1,5 +1,5 @@
 ---
-title: "A moving average crossover strategy using Kaufman's Adaptive Moving Average and inverse volatility portfolio weighting"
+title: "A moving average crossover strategy using Kaufman's Adaptive Moving Average indicator"
 excerpt: "Kaufman's Adaptive Moving Average filters out 'market noise' during high volatility periods and prevents generating false signals."
 categories:
   - Systematic Trading

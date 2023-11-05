@@ -1,6 +1,6 @@
 ---
 title: "How is the EU implementing strategies to favour a circular economic model?"
-excerpt:
+excerpt: "The shift to a circular economy offers cost savings, job creation, and environmental benefits. The European Union is leading in this transformation, inspiring other governments to work towards a more sustainable global economy."
 categories:
   - Articles
 tags:
@@ -8,11 +8,11 @@ tags:
 ---
 This article was written for [The Radius](https://theradius.world).
 
-## Introduction
+### Introduction
 
 More and more people are starting to educate themselves on the topic of climate change, as it is important that each of us play our part. However, the economy plays a big role in global warming and it is one of the main factors to consider when countries are devising plans to reduce their CO2 emissions. If you’ve ever attended a conference, read a book or listened to a podcast about climate change, chances are you’ve heard about the term “circular economy”. But what exactly does it mean?
 
-## What is a “circular economy” and what are its benefits?
+### What is a “circular economy” and what are its benefits?
 
 The definition given by the [Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview/), a global thought-leading charity focusing on bringing the circular economy into the agendas of decision-makers, states that “a circular economy aims to redefine growth, focusing on positive society-wide benefits. […] Underpinned by a transition to renewable energy sources, the circular model builds economic, natural, and social capital. It is based on three principles: design out waste and pollution, keep products and materials in use, regenerate natural systems.” A more palatable definition is given by [Eurostat](https://ec.europa.eu/eurostat/web/circular-economy): “A circular economy aims to maintain the value of products, materials and resources for as long as possible by returning them into the product cycle at the end of their use while minimising the generation of waste.”
 
@@ -26,7 +26,7 @@ This is why the circular economy model has been gaining traction. However, one c
 
 So what has the EU been doing to shift our economy into this more favourable model?
 
-## The EU’s “Circular Economy Action Plan”
+### The EU’s “Circular Economy Action Plan”
 
 In response to global pressure led by climate change activists, the European Union devised a set of policy initiatives, the “European Green Deal”, with the main scope to make Europe carbon neutral by 2050 and ensure that economic growth is decoupled from resource use. Within this initiative, one of the main blocks is the “Circular Economy Action Plan”, devised in 2015, which aimed to transition the local economy from a linear to a circular model. It includes 54 actions covering the whole cycle of materials and products – from production and consumption to waste management and the market for secondary raw materials. As of January 2019, [more than 90%](https://sustainabledevelopment.un.org/partnership/?p=29808) of actions have been delivered.
 
@@ -36,7 +36,7 @@ An example is “Aeropowder”, a London-based start-up which aims to create use
 
 A lot of initiatives regarding ‘closet renting’ are also coming forward, one of which being Fjong, Norwegian start-up which allows customers access to more than 4,000 new and vintage designer women’s clothing from over 200 brands worldwide. This allows customers to access many beautiful clothing items for a fraction of the cost, while simultaneously further discouraging ‘fast fashion’ (see next paragraph).
 
-## Circular economy in the fashion sector
+### Circular economy in the fashion sector
 
 The fashion sector (mainly clothing and textile industries) is one of the most globalised sectors, and among the main causes of waste globally. [Nearly 20% of global wastewater](https://www.unece.org/fileadmin/DAM/timber/meetings/2018/20180716/UN_Partnership_on_Sustainable_Fashion_programme_as_of_6-7-2018.pdf) is produced by the fashion industry and in the EU, approximately [16 million tons](https://waste-management-world.com/a/commission-all-54-of-the-eu-s-circular-economy-action-plan-actions-delivered) of textile municipal solid waste was generated in 2015. Worse yet, the amount of textile waste has doubled over [the last 20 years](https://waste-management-world.com/a/commission-all-54-of-the-eu-s-circular-economy-action-plan-actions-delivered).
 
@@ -47,7 +47,7 @@ So how could a circular economy model be encouraged in the fashion sector? First
 
 Another alternative gaining popularity is rental models: many rising start-ups allow the public to rent clothes for a fraction of buying cost, as shown in the above example (Fjong).
 
-## Conclusion
+### Conclusion
 
 Undoubtedly, moving from a linear to a circular economic model would create beneficial consequences for both companies and consumers, not to mention the environment. Despite the project being relatively recent, the EU is already recognised as a leader in circular economy policy-making globally. The action plan has also encouraged [at least 14 member states, eight regions, and 11 cities](https://www.ellenmacarthurfoundation.org/explore) to put forward circular economy strategies.
 
