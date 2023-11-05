@@ -1,0 +1,27 @@
+---
+title: "Bioadhesive hydrogels: making stem cell patches possible?"
+excerpt:
+categories:
+  - Articles
+tags:
+  - Writing
+---
+Written for Imperial Bioscience Review. Awarded editors' choice.
+
+Stem cell treatments have witnessed a surge in development during the last two decades. What makes these treatments so desirable is the opportunity to use the patient’s own cells, which cancels the need for immunosuppression, which greatly improves the patients’ quality of life after treatment. Stem cells can be reprogrammed into a variety of different specialized cells, which can self-renew and repair damaged tissues. This makes the treatment extremely viable and versatile. However, stem cell therapy is far from being fully developed, as there are a few obstacles which require further research to be overcome. One example of that is the treatment of cardiovascular disease: though most have been statistically proven to be feasible and safe, stem cell trials for cardiovascular diseases have not yielded clinically meaningful outcomes yet (Steele et al., 2017). This is due to many factors, the most prominent of which is a low retention rate of cells. One of the promising ways researchers have been trying to solve this problem is through using biomaterials such as hydrogels to protect the cells from damage.
+
+The most widely used technique for the delivery of stem cell treatment is injection of the cells in the site of injury. However, this limits the efficacy of the treatment, as not all cells that are injected are retained by the body: a portion of the cells gets damaged by the mechanical forces caused by the syringe, which can lead to severe lysis of the cells (Steele et al., 2017). Of the cells that do reach the injury site, some are drained by the lymphatic system (Madonna et al., 2019). However, the biggest reason that has been observed as to why cell retention is so low in treatments of cardiovascular diseases compared to other locations in the body, is due to the physical pressure from the contracting heart, which causes the immune system to activate and expulse the cells (Vagnozzi et al., 2020).
+
+To improve the retention of stem cell therapy in the heart, researchers have been investigating using biomaterials to shield the cell product from external damage. Another requirement that biomaterials need to have in order to be a good fit to support stem cell therapies is porosity since the cells need to interact with the endogenous cell populations (Hoeeg et al., 2021). Hydrogels are three-dimensional networks that are able to absorb large quantities of water or biological fluids, which confers this material a flexibility similar to that of natural tissue (Singh, 2014). In the context of stem cell therapies, the high water content in the hydrogel matrix allows exchange of nutrients and waste products with the environment, whilst protecting the cells from the mechanical forces caused by injections (Hoeeg et al., 2021).
+
+There are two types of hydrogels: natural and synthetic. Natural biopolymers have the advantage of being very biocompatible. The cross-linking and degradation of natural hydrogels are uncontrollable in vivo but it’s considered very safe (Lee and Mooney, 2001). However, natural polymers are mostly biologically inert and thus cannot replicate the electrical and mechanic properties of the myocardial tissue (Hoeeg et al., 2021). On the other hand, synthetic polymers are not considered to be as biocompatible as natural hydrogels, due to their origin of synthesis or their cross-linking (Lee and Mooney, 2001). They also are not degraded in vivo unless toxic substances are introduced, which is not viable for the patients’ health. For this reason, self-assembling hydrogels are being investigated due to their ability to self-degrade without the need for toxic substances (Zhou et al., 2016).
+
+## Bibliography
+
+- Hoeeg, C., Dolatshahi-Pirouz, A., & Follin, B. (2021). Injectable Hydrogels for Improving Cardiac Cell Therapy—In Vivo Evidence and Translational Challenges. Gels, 7, 7.
+- Lee, K. Y., & Mooney, D. J. (2001). Hydrogels for Tissue Engineering. Chem. Rev, 101, 1869–1879.
+- Madonna, R., Van Laake, L. W., Botker, H. E., Davidson, S. M., De Caterina, R., Engel, F. B., ... & Hausenloy, D. J. (2019). ESC Working Group on Cellular Biology of the Heart: Position Paper for Cardiovascular Research: Tissue Engineering Strategies Combined with Cell Therapies for Cardiac Repair in Ischaemic Heart Disease and Heart Failure. Cardiovasc. Res, 115, 488–500.
+- Singh, G. (2014). Hydrogel as a novel drug delivery system: a review. J. Fundam. Pharm. Res., 2(1), 35-48.
+- Steele, A. N., MacArthur, J. W., Woo, Y. J., et al. (2017). Stem Cell Therapy: Healing or Hype? Why Stem Cell Delivery Doesn't Work. Circ Res, 120(12), 1868-1870.
+- Vagnozzi, R. J., Maillet, M., Sargent, M. A., Khalil, H., Johansen, A. K., Schwanekamp, J. A., ... & Sadayappan, S. (2020). An Acute Immune Response Underlies the Benefit of Cardiac Stem Cell Therapy. Nature, 176, 139–148.
+- Zhou, A., Chen, S., He, B., Zhao, W., Chen, X., & Jiang, D. (2016). Controlled Release of TGF-Beta I from RADA Self-Assembling Peptide Hydrogel Scaffolds. Drug Des. Devel. Ther., 10, 3043–3051.
