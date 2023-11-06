@@ -362,7 +362,7 @@ body {
 }
 
 .taxonomy__section {
-  margin-bottom: 2em;
+  margin-bottom: 1em; //
   padding-bottom: 1em;
 
   &:not(:last-child) {
@@ -379,7 +379,7 @@ body {
   }
 
   + .taxonomy__section {
-    margin-top: 2em;
+    margin-top: 1em; //
   }
 }
 
@@ -396,7 +396,8 @@ body {
   display: grid;
   grid-column-gap: 2em;
   grid-template-columns: repeat(2, 1fr);
-  margin: 1.414em 0;
+  margin: 2em 0; //
+  margin-bottom: 4em; //
   padding: 0;
   font-size: 0.75em;
   list-style: none;

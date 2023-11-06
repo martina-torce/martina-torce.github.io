@@ -1,6 +1,6 @@
 ---
 title: "Bioadhesive hydrogels: making stem cell patches possible?"
-excerpt:
+excerpt: "Hydrogels hold promise in enhancing stem cell therapies for cardiovascular diseases by addressing the issue of low cell retention, paving the way for more effective treatments."
 categories:
   - Articles
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Is stress genetic? – The memory of mitochondria"
+title: "Is stress genetic? The memory of mitochondria"
 excerpt: "Recent research in C. elegans suggests that mitochondrial stress can be transgenerationally inherited, potentially influencing offspring's responses to stressors."
 categories:
   - Articles

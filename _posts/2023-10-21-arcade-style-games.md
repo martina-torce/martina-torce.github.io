@@ -9,5 +9,5 @@ tags:
 
 A collection of arcade-style games I've coded, including minefield, stacker and ducker.
 
-[Link](martina-torce.github.io/arcade-style-games/)
+[Link](https://martina-torce.github.io/arcade-style-games/)
 [Repository](https://github.com/martina-torce/arcade-style-games)
