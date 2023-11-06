@@ -12,4 +12,4 @@ This analysis consists of a submission for a Case Competition held by Imperial C
 
 The prompt asked for a recommendation to a friend who has near-illimited capital and time and wants to found a start-up which provides sustainable travel opportunities with Buy Now Pay Later (BNPL) services.
 
-View my analysis: [Available on GitHub](https://github.com/martina-torce/consulting-projects/blob/main/Sustainable%20and%20Affordable%20Travel%2C%20A%20Case%20Study%20on%20TravelPay's%20BNPL%20Revolution)
+View my analysis: [Available on GitHub](https://github.com/martina-torce/consulting-projects/tree/main/Sustainable%20and%20Affordable%20Travel%3A%20A%20Case%20Study%20on%20TravelPay%E2%80%99s%20BNPL%20Revolution)
