@@ -10,8 +10,6 @@
   @include clearfix;
   margin: 0 auto;
   max-width: 100%;
-  padding-left: 1em;
-  padding-right: 1em;
   font-family: $sans-serif;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -22,6 +20,16 @@
     max-width: $x-large;
   }
 
+  //
+  @include breakpoint($small) {
+    padding-left: 1em;
+  }
+
+  @media screen and (min-width: 600px) and (max-width: 1023px) {
+    padding: 0;
+  }
+  //
+  
   ol {
     padding: 0;
     list-style: none;
