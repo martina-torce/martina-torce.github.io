@@ -4,7 +4,7 @@ excerpt: "A collection of arcade-style games I've coded, including minefield, st
 categories:
   - Web Development
 tags:
-  - HTML, CSS, JS
+  - HTML, SCSS, JavaScript
 ---
 
 A collection of arcade-style games I've coded, including minefield, stacker and ducker.

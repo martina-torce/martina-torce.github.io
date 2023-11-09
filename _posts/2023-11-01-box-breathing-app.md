@@ -5,7 +5,7 @@ categories:
   - Web Development
 tags:
   - Flask
-  - HTML, CSS, JS
+  - HTML, SCSS, JavaScript
 ---
 
 The Box Breathing App is a simple and effective tool to help you practice box breathing, a powerful relaxation technique that promotes stress reduction, mindfulness, and enhanced focus. Whether you’re seeking a moment of calm in your busy day or looking to improve your overall well-being, this app guides you through the four phases of box breathing with ease.
