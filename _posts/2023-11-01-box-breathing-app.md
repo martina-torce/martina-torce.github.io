@@ -1,10 +1,9 @@
 ---
 title: "Box breathing app"
 excerpt: "The Box Breathing App is a simple and effective tool to help you practice box breathing, a powerful relaxation technique."
-categories: 
+categories:
   - Web Development
 tags:
-  - Flask
   - HTML, SCSS, JavaScript
 ---
 
