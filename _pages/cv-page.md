@@ -16,6 +16,7 @@ permalink: /cv/
         padding-left: 1.25em;
       }
     }
+
   </style>
 </head>
 
@@ -29,13 +30,13 @@ An enterprising student looking to translate a blend of analytical and interpers
   <span style="float:left;font-weight:bold;"> Imperial College London </span> <span style="float:right;font-style:italic;"> London, UK </span> <br>
   <span style="float:left;font-weight:bold;"> MEng, Biomolecular Engineering </span> <span style="float:right;font-style:italic;"> Oct '20 – Jun '24 </span> <br>
   Upper Second Class Hons. (Predicted).
-  <br>Modules: Engineering Mathematics, MATLAB, and Python Programming (First Class Hons.).
+  <br>Modules: Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).
 </p>
 
 <p style="margin-bottom: 0;">
   <span style="float:left;font-weight:bold;"> St. George’s British International School </span> <span style="float:right;font-style:italic;"> Rome, IT </span> <br>
   <span style="float:left;font-weight:bold;"> Diploma, International Baccalaureate </span> <span style="float:right;font-style:italic;"> Oct '18 – Jun '20 </span> <br>
-  Grade 44/45 (<1% worldwide), HL Mathematics 7/7 with Advanced Calculus, Statistics & Probability. <br> 
+  Grade 44/45 (top <1% worldwide), HL Mathematics 7/7 with Advanced Calculus, Statistics & Probability. <br> 
   <div style="margin: 0.75em;"></div>
   <span style="float:left;font-weight:bold;"> International GCSEs </span> <span style="float:right;font-style:italic;"> Oct '17 - Jun '18 </span> <br>
   7A*A including Mathematics & English Language (A*). Results achieved in one year of study instead of two.
@@ -211,17 +212,18 @@ An enterprising student looking to translate a blend of analytical and interpers
 
 ## Skills & Interests
 
-**Languages:** 
+**Languages:**
 <br>English, Italian (Native/Bilingual)
 <br>Spanish, French (Limited Proficiency)
-<br>**Tech Languages:** 
+<br>**Tech Languages:**
 <br>Python, HTML, CSS, JS, SQL, R (Advanced)
 <br>Ruby, C++, MATLAB (Intermediate)
-<br>**Python Libraries:** 
+<br>**Python Libraries:**
 <br>NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, Keras
 <br>**Web Frameworks & Runtime Envs:**
 <br>Node.js, Express.js, Vue.js, Flask, Ruby on Rails
-<br>**Tools:** 
+<br>**Tools:**
 <br>Git, GitHub, Visual Studio Code, Microsoft Excel, Microsoft PowerPoint (Advanced)
 <br>Microsoft Power BI, Tableau (Intermediate)
+
 <!-- <br>**Interests:**  -->
