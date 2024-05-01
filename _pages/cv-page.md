@@ -42,7 +42,7 @@ permalink: /cv/
       <span class="float-left">The Institute of Cancer Research</span>
       <span class="float-right">London, UK</span><br>
       <span class="float-left">Machine Learning Research Internship</span>
-      <span class="float-left">Jun – Aug '22</span><br>
+      <span class="float-right">Jun – Aug '22</span><br>
     </p>
     <ul class="cv-list">
       <li>Developed a deep learning model using a U-Net architecture to segment the skeleton in Whole-Body Diffusion-Weighted MRI images. Libraries and frameworks used: SimpleITK, PyTorch and MONAI.</li>
