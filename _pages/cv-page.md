@@ -31,8 +31,10 @@ permalink: /cv/
       <span class="float-right">Rome, IT</span><br>
       <span class="float-left">Diploma, International Baccalaureate</span>
       <span class="float-right">Oct '18 – Jun '20</span> <br>
-      Grade: 44/45 (top <1%)<br>
-      Higher Level Mathematics, Chemistry, Biology<br>
+      <ul class="cv-list">
+        <li>Grade: 44/45 (top <1%)</li>
+        <li>Higher Level Mathematics, Chemistry, Biology</li>
+      </ul>
       <div style="margin: 0.75em"></div>
       <span class="float-left">International GCSEs</span> 
       <span class="float-right">Oct '17 - Jun '18</span><br>
