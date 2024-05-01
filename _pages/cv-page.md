@@ -8,6 +8,9 @@ permalink: /cv/
 <link rel="stylesheet" href="../assets/css/cv_page.css">
 
 <div class="page__content cv-section">
+  
+  A full, detailed professional history.
+
   <h2>Professional Profile</h2>
     <p>An enterprising student looking to translate a blend of analytical and interpersonal skills acquired in a technical Engineering degree into using technology to solve business problems within the financial sector.</p>
   
