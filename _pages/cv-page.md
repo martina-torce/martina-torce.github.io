@@ -5,60 +5,35 @@ permalink: /cv/
 # toc_sticky: true
 ---
 
-<head>
-  <style>    
-    @media screen and (max-width: 600px) {
-      .page__content span {
-        font-size: 0.825em;
-      }
+<link rel="stylesheet" href="assets/css/cv_page.css">
 
-      .page__content ul {
-        padding-left: 1.25em;
-      }
-    }
+<div class="page__content cv-section">
+  <h2>Professional Profile</h2>
+    <p>An enterprising student looking to translate a blend of analytical and interpersonal skills acquired in a technical Engineering degree into using technology to solve business problems within the financial sector.</p>
+  
+  <h2>Education</h2>
+    <p>
+        <span class="float-left">Imperial College London</span>
+        <span class="float-right">London, UK</span><br>
+        <span class="float-left">MEng, Molecular Bioengineering</span>
+        <span class="float-right">Oct '20 – Jun '24</span>
+        <br>First Class Honours<br>
+        Python Programming, Image Processing, Mathematics and Engineering, Synthetic Biology, Biomaterials and Biomimetics, Medical and Biochemical Science, Molecules and Energetics
+    </p>
+    <p>
+      <span class="float-left"> St. George’s British International School</span>
+      <span class="float-right"> Rome, IT </span> <br>
+      <span class="float-left"> Diploma, International Baccalaureate </span>
+      <span class="float-right"> Oct '18 – Jun '20 </span> 
+      <br>Grade 44/45 (top <1%), Higher Level Mathematics, Chemistry, Biology<br>
+      <div style="margin: 0.75em;"></div>
+      <span style="float:left;font-weight:bold;"> International GCSEs </span> <span style="float:right;font-style:italic;"> Oct '17 - Jun '18 </span> <br>
+      7A*A including Mathematics & English Language (A*). Results achieved in one year of study instead of two.
+    </p>
 
-  </style>
-</head>
+</div>
 
-<h2 style="margin-top: 1em;">Professional Profile</h2>
-
-An enterprising student looking to translate a blend of analytical and interpersonal skills acquired in a technical Engineering degree into using technology to solve business problems within the financial sector.
-
-## Education
-
-<p>
-  <span style="float:left;font-weight:bold;"> Imperial College London </span> <span style="float:right;font-style:italic;"> London, UK </span> <br>
-  <span style="float:left;font-weight:bold;"> MEng, Biomolecular Engineering </span> <span style="float:right;font-style:italic;"> Oct '20 – Jun '24 </span> <br>
-  Upper Second Class Hons. (Predicted).
-  <br>Modules: Engineering Mathematics, MATLAB and Python Programming (First Class Hons.).
-</p>
-
-<p style="margin-bottom: 0;">
-  <span style="float:left;font-weight:bold;"> St. George’s British International School </span> <span style="float:right;font-style:italic;"> Rome, IT </span> <br>
-  <span style="float:left;font-weight:bold;"> Diploma, International Baccalaureate </span> <span style="float:right;font-style:italic;"> Oct '18 – Jun '20 </span> <br>
-  Grade 44/45 (top <1% worldwide), HL Mathematics 7/7 with Advanced Calculus, Statistics & Probability. <br> 
-  <div style="margin: 0.75em;"></div>
-  <span style="float:left;font-weight:bold;"> International GCSEs </span> <span style="float:right;font-style:italic;"> Oct '17 - Jun '18 </span> <br>
-  7A*A including Mathematics & English Language (A*). Results achieved in one year of study instead of two.
-</p>
-
-## Work Experience
-
-<p style="margin-bottom: 0;">
-  <span style="float:left;font-weight:bold;"> Manning's Tutors Ltd. </span> <span style="float:right;font-style:italic;"> London, UK </span> <br>
-  <span style="float:left;font-weight:bold;"> Student Tutor </span> <span style="float:right;font-style:italic;"> Oct '22 – Present </span> <br>
-</p>
-<ul style="margin-top: 0;">
-  <li>Tutoring GCSE and A-Level students in Mathematics, Chemistry, and Biology.</li>
-</ul>
-
-<p style="margin-bottom: 0;">
-  <span style="float:left;font-weight:bold;"> Covalent </span> <span style="float:right;font-style:italic;"> Remote </span> <br>
-  <span style="float:left;font-weight:bold;"> Bootcamp, Data Analchemist </span> <span style="float:right;font-style:italic;"> Oct '22 - Nov '22 </span> <br>
-</p>
-<ul style="margin-top: 0;">
-  <li>Completed industry-level training in Blockchain Data Analytics.</li>
-</ul>
+## Experience
 
 <p style="margin-bottom: 0;">
   <span style="float:left;font-weight:bold;"> The Institute of Cancer Research </span> <span style="float:right;font-style:italic;"> London, UK </span> <br>
@@ -78,23 +53,32 @@ An enterprising student looking to translate a blend of analytical and interpers
   <li>Received in-depth training from industry leaders in market-making and systems infrastructures.</li>
 </ul>
 
-<p style="margin-bottom: 0;">
-  <span style="float:left;font-weight:bold;"> KPMG </span> <span style="float:right;font-style:italic;"> Remote </span> <br>
-  <span style="float:left;font-weight:bold;"> Virtual Work Experience, Data Analytics </span> <span style="float:right;font-style:italic;"> Feb '22 </span> <br>
-</p>
-<ul style="margin-top: 0;">
-  <li>Performed data quality assessments, customer data analysis and segmentation, presented research using Microsoft Excel and Power BI.</li>
-</ul>
-
-<p style="margin-bottom: 0;">
-  <span style="float:left;font-weight:bold;"> J.P. Morgan Chase </span> <span style="float:right;font-style:italic;"> Remote </span> <br>
-  <span style="float:left;font-weight:bold;"> Virtual Work Experience, Software Engineering </span> <span style="float:right;font-style:italic;"> Jun '20 </span> <br>
-</p>
-<ul style="margin-top: 0;">
-  <li>Developed a client-side application to visualise the ratio of two stocks’ prices against a historical correlation to conduct a pairs trading strategy. Conducted unit testing.</li>
-</ul>
-
 ## Extra-Curricular
+
+<p style="margin-bottom: 0;">
+  <span style="float:left;font-weight:bold;"> Millie Group </span> <span style="float:right;font-style:italic;"> Remote </span> <br>
+  <span style="float:left;font-weight:bold;"> Academic Mentor </span> <span style="float:right;font-style:italic;"> Jan '24 – Present </span> <br>
+</p>
+<ul style="margin-top: 0;">
+  <li>Tutoring IB, A-level and AP students from International Schools in Mathematics, Chemistry and Biology.</li>
+</ul>
+
+<p style="margin-bottom: 0;">
+  <span style="float:left;font-weight:bold;"> Manning's Tutors Ltd. </span> <span style="float:right;font-style:italic;"> London, UK </span> <br>
+  <span style="float:left;font-weight:bold;"> Academic Tutor </span> <span style="float:right;font-style:italic;"> Oct '22 – Jan '24 </span> <br>
+</p>
+<ul style="margin-top: 0;">
+  <li>Tutoring GCSE and A-Level students in Mathematics, Chemistry, and Biology.</li>
+</ul>
+
+<p style="margin-bottom: 0;">
+  <span style="float:left;font-weight:bold;"> Imperial College Investment Society </span> <span style="float:right;font-style:italic;"> London, UK </span> <br>
+  <span style="float:left;font-weight:bold;"> Senior Analyst, Systematic Division </span> <span style="float:right;font-style:italic;"> Oct '22 – Jun '23 </span> <br>
+</p>
+<ul style="margin-top: 0;">
+  <li>Led a team of 10+ to submit weekly pitches and contribute in management of £7000+ portfolio.</li>
+  <li>Posted weekly market and sector summaries based off of macro- and micro-economic trends.</li>
+</ul>
 
 <p style="margin-bottom: 0;">
   <span style="float:left;font-weight:bold;"> Imperial Blockchain Group </span> <span style="float:right;font-style:italic;"> London, UK </span> <br>
@@ -105,12 +89,11 @@ An enterprising student looking to translate a blend of analytical and interpers
 </ul>
 
 <p style="margin-bottom: 0;">
-  <span style="float:left;font-weight:bold;"> Imperial College Investment Society </span> <span style="float:right;font-style:italic;"> London, UK </span> <br>
-  <span style="float:left;font-weight:bold;"> Senior Analyst, Systematic Division </span> <span style="float:right;font-style:italic;"> Oct '22 – Jun '23 </span> <br>
+  <span style="float:left;font-weight:bold;"> Covalent </span> <span style="float:right;font-style:italic;"> Remote </span> <br>
+  <span style="float:left;font-weight:bold;"> Bootcamp, Data Alchemist </span> <span style="float:right;font-style:italic;"> Oct '22 - Nov '22 </span> <br>
 </p>
 <ul style="margin-top: 0;">
-  <li>Led a team of 10+ to submit weekly pitches and contribute in management of £7000+ portfolio.</li>
-  <li>Posted weekly market and sector summaries based off of macro- and micro-economic trends.</li>
+  <li>Completed industry-level training in Blockchain Data Analytics using SQL.</li>
 </ul>
 
 <p style="margin-bottom: 0;">
@@ -208,6 +191,22 @@ An enterprising student looking to translate a blend of analytical and interpers
 <ul style="margin-top: 0;">
   <li>Elected to represent the student cohort within the Department of Bioengineering.</li>
   <li>Increased cohort satisfaction of 21% according to two anonymous surveys after one school year.</li>
+</ul>
+
+<p style="margin-bottom: 0;">
+  <span style="float:left;font-weight:bold;"> KPMG </span> <span style="float:right;font-style:italic;"> Remote </span> <br>
+  <span style="float:left;font-weight:bold;"> Virtual Work Experience, Data Analytics </span> <span style="float:right;font-style:italic;"> Feb '22 </span> <br>
+</p>
+<ul style="margin-top: 0;">
+  <li>Performed data quality assessments, customer data analysis and segmentation, presented research using Microsoft Excel and Power BI.</li>
+</ul>
+
+<p style="margin-bottom: 0;">
+  <span style="float:left;font-weight:bold;"> J.P. Morgan Chase </span> <span style="float:right;font-style:italic;"> Remote </span> <br>
+  <span style="float:left;font-weight:bold;"> Virtual Work Experience, Software Engineering </span> <span style="float:right;font-style:italic;"> Jun '20 </span> <br>
+</p>
+<ul style="margin-top: 0;">
+  <li>Developed a client-side application to visualise the ratio of two stocks’ prices against a historical correlation to conduct a pairs trading strategy. Conducted unit testing.</li>
 </ul>
 
 ## Skills & Interests
