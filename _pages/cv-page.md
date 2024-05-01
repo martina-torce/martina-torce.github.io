@@ -52,7 +52,7 @@ permalink: /cv/
       <span class="float-left">Optiver</span>
       <span class="float-right">Amsterdam, NL</span><br>
       <span class="float-left">Spring Internship, Technology Division</span>
-      <span class="float-right">Apr '22</span>
+      <span class="float-right">Apr '22</span><br>
     </p>
     <ul class="cv-list">
       <li>Implemented an algorithm to trade a dual-listed security using an arbitrage strategy while simultaneously improving market liquidity.</li>
