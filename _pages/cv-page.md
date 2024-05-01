@@ -36,7 +36,7 @@ permalink: /cv/
         <li>Higher Level Mathematics, Chemistry, Biology</li>
       </ul>
       <span class="float-left">International GCSEs</span> 
-      <span class="float-right">Oct '17 - Jun '18</span><br>
+      <span class="float-right">Oct '17 - Jun '18</span><br><br>
       <ul class="cv-list">
         <li>Grade: 7A*A</li>
         <li>Including Mathematics & English Language (A*). Results achieved in one year of study instead of two.</li>
