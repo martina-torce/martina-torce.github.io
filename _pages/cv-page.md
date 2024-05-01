@@ -9,7 +9,7 @@ permalink: /cv/
 
 <div class="page__content cv-section">
   
-  A full, detailed professional history.
+  A full, detailed professional history. A resume (concise summary of my skills, experience, and education) is available upon request.
 
   <h2>Professional Profile</h2>
     <p>An enterprising student looking to translate a blend of analytical and interpersonal skills acquired in a technical Engineering degree into using technology to solve business problems within the financial sector.</p>
