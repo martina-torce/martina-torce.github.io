@@ -17,7 +17,7 @@ permalink: /cv/
         <span class="float-right">London, UK</span><br>
         <span class="float-left">MEng, Molecular Bioengineering</span>
         <span class="float-right">Oct '20 – Jun '24</span>
-        <br>First Class Honours<br>
+        Grade: First Class Honours<br>
         Python Programming, Image Processing, Mathematics and Engineering, Synthetic Biology, Biomaterials and Biomimetics, Medical and Biochemical Science, Molecules and Energetics
     </p>
     <p>
@@ -25,11 +25,13 @@ permalink: /cv/
       <span class="float-right">Rome, IT</span><br>
       <span class="float-left">Diploma, International Baccalaureate</span>
       <span class="float-right">Oct '18 – Jun '20</span> 
-      <br>Grade 44/45 (top <1%), Higher Level Mathematics, Chemistry, Biology<br>
+      Grade: 44/45 (top <1%)<br>
+      Higher Level Mathematics, Chemistry, Biology<br>
       <div style="margin: 0.75em"></div>
       <span class="float-left">International GCSEs</span> 
-      <span class="float-right">Oct '17 - Jun '18</span><br>
-      7A*A including Mathematics & English Language (A*). Results achieved in one year of study instead of two.
+      <span class="float-right">Oct '17 - Jun '18</span>
+      Grade: 7A*A<br>
+      Including Mathematics & English Language (A*). Results achieved in one year of study instead of two.
     </p>
 
   <h2>Experience</h2>
@@ -37,7 +39,7 @@ permalink: /cv/
       <span class="float-left">The Institute of Cancer Research</span>
       <span class="float-right">London, UK</span><br>
       <span class="float-left">Machine Learning Research Internship</span>
-      <span class="float-left">Jun – Aug '22</span><br>
+      <span class="float-left">Jun – Aug '22</span>
     </p>
     <ul class="cv-list">
       <li>Developed a deep learning model using a U-Net architecture to segment the skeleton in Whole-Body Diffusion-Weighted MRI images. Libraries and frameworks used: SimpleITK, PyTorch and MONAI.</li>
@@ -47,7 +49,7 @@ permalink: /cv/
       <span class="float-left">Optiver</span>
       <span class="float-right">Amsterdam, NL</span><br>
       <span class="float-left">Spring Internship, Technology Division</span>
-      <span class="float-right">Apr '22</span><br>
+      <span class="float-right">Apr '22</span>
     </p>
     <ul class="cv-list">
       <li>Implemented an algorithm to trade a dual-listed security using an arbitrage strategy while simultaneously improving market liquidity.</li>
