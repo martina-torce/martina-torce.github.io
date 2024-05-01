@@ -16,12 +16,14 @@ permalink: /cv/
   
   <h2>Education</h2>
     <p>
-        <span class="float-left">Imperial College London</span>
-        <span class="float-right">London, UK</span><br>
-        <span class="float-left">MEng, Molecular Bioengineering</span>
-        <span class="float-right">Oct '20 – Jun '24</span><br>
-        Grade: First Class Honours<br>
-        Python Programming, Image Processing, Mathematics and Engineering, Synthetic Biology, Biomaterials and Biomimetics, Medical and Biochemical Science, Molecules and Energetics
+      <span class="float-left">Imperial College London</span>
+      <span class="float-right">London, UK</span><br>
+      <span class="float-left">MEng, Molecular Bioengineering</span>
+      <span class="float-right">Oct '20 – Jun '24</span><br>
+      <ul class="cv-list">
+        <li>Grade: First Class Honours</li>
+        <li>Python Programming, Image Processing, Mathematics and Engineering, Synthetic Biology, Biomaterials and Biomimetics, Medical and Biochemical Science, Molecules and Energetics</li>
+      </ul>
     </p>
     <p>
       <span class="float-left">St. George’s British International School</span>
@@ -33,8 +35,10 @@ permalink: /cv/
       <div style="margin: 0.75em"></div>
       <span class="float-left">International GCSEs</span> 
       <span class="float-right">Oct '17 - Jun '18</span><br>
-      Grade: 7A*A<br>
-      Including Mathematics & English Language (A*). Results achieved in one year of study instead of two.
+      <ul class="cv-list">
+        <li>Grade: 7A*A</li>
+        <li>Including Mathematics & English Language (A*). Results achieved in one year of study instead of two.</li>
+      </ul>
     </p>
 
   <h2>Experience</h2>
