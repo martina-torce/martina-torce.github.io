@@ -19,7 +19,7 @@ permalink: /cv/
         <span class="float-left">Imperial College London</span>
         <span class="float-right">London, UK</span><br>
         <span class="float-left">MEng, Molecular Bioengineering</span>
-        <span class="float-right">Oct '20 – Jun '24</span>
+        <span class="float-right">Oct '20 – Jun '24</span><br>
         Grade: First Class Honours<br>
         Python Programming, Image Processing, Mathematics and Engineering, Synthetic Biology, Biomaterials and Biomimetics, Medical and Biochemical Science, Molecules and Energetics
     </p>
@@ -27,12 +27,12 @@ permalink: /cv/
       <span class="float-left">St. George’s British International School</span>
       <span class="float-right">Rome, IT</span><br>
       <span class="float-left">Diploma, International Baccalaureate</span>
-      <span class="float-right">Oct '18 – Jun '20</span> 
+      <span class="float-right">Oct '18 – Jun '20</span> <br>
       Grade: 44/45 (top <1%)<br>
       Higher Level Mathematics, Chemistry, Biology<br>
       <div style="margin: 0.75em"></div>
       <span class="float-left">International GCSEs</span> 
-      <span class="float-right">Oct '17 - Jun '18</span>
+      <span class="float-right">Oct '17 - Jun '18</span><br>
       Grade: 7A*A<br>
       Including Mathematics & English Language (A*). Results achieved in one year of study instead of two.
     </p>
@@ -42,7 +42,7 @@ permalink: /cv/
       <span class="float-left">The Institute of Cancer Research</span>
       <span class="float-right">London, UK</span><br>
       <span class="float-left">Machine Learning Research Internship</span>
-      <span class="float-left">Jun – Aug '22</span>
+      <span class="float-left">Jun – Aug '22</span><br>
     </p>
     <ul class="cv-list">
       <li>Developed a deep learning model using a U-Net architecture to segment the skeleton in Whole-Body Diffusion-Weighted MRI images. Libraries and frameworks used: SimpleITK, PyTorch and MONAI.</li>
