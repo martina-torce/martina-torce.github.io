@@ -5,7 +5,7 @@ permalink: /cv/
 # toc_sticky: true
 ---
 
-<link rel="stylesheet" href="assets/css/cv_page.css">
+<link rel="stylesheet" href="../assets/css/cv_page.css">
 
 <div class="page__content cv-section">
   <h2>Professional Profile</h2>
@@ -21,15 +21,28 @@ permalink: /cv/
         Python Programming, Image Processing, Mathematics and Engineering, Synthetic Biology, Biomaterials and Biomimetics, Medical and Biochemical Science, Molecules and Energetics
     </p>
     <p>
-      <span class="float-left"> St. George’s British International School</span>
-      <span class="float-right"> Rome, IT </span> <br>
-      <span class="float-left"> Diploma, International Baccalaureate </span>
-      <span class="float-right"> Oct '18 – Jun '20 </span> 
+      <span class="float-left">St. George’s British International School</span>
+      <span class="float-right">Rome, IT</span> <br>
+      <span class="float-left">Diploma, International Baccalaureate</span>
+      <span class="float-right">Oct '18 – Jun '20</span> 
       <br>Grade 44/45 (top <1%), Higher Level Mathematics, Chemistry, Biology<br>
       <div style="margin: 0.75em;"></div>
-      <span style="float:left;font-weight:bold;"> International GCSEs </span> <span style="float:right;font-style:italic;"> Oct '17 - Jun '18 </span> <br>
+      <span style="float:left;font-weight:bold;">International GCSEs </span> 
+      <span style="float:right;font-style:italic;"> Oct '17 - Jun '18 </span> <br>
       7A*A including Mathematics & English Language (A*). Results achieved in one year of study instead of two.
     </p>
+
+  <h2>Experience</h2>
+    <p class="cv_item">
+      <span class="float-left"> The Institute of Cancer Research </span>
+      <span class="float-right"> London, UK </span> <br>
+      <span class="float-left"> Machine Learning Research Internship </span>
+      <span class="float-left"> Jun – Aug '22 </span> <br>
+    </p>
+    <ul class="cv-list">
+      <li>Developed a deep learning model using a U-Net architecture to segment the skeleton in Whole-Body Diffusion-Weighted MRI images. Libraries and frameworks used: SimpleITK, PyTorch and MONAI.</li>
+      <li>Acceptance of research abstract to International Society for Magnetic Resonance in Medicine.</li>
+    </ul>
 
 </div>
 
